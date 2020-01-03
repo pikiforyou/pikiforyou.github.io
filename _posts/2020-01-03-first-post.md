@@ -1,7 +1,7 @@
 ---
-title: "시작하는 첫 "
-date: 2020-01-03 22:19 -0400
-categories: Diary
+title: "시작하는 첫 기록"
+date: 2020-01-03 22:22:22 -0400
+categories: jekyll update
 ---
 
 시작하는 가장 첫페이지,
